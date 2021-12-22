@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gogaaltu
+- 👋 Hi, I’m Goga Altunashvili
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning .Net Core
 - 📫 How to reach me gogaaltuanshvili@gmail.com
