@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing
 - 🌱 I’m currently learning .Net Core
 - 📫 How to reach me gogaaltuanshvili@gmail.com
-- https://www.linkedin.com/in/goga-altunashvili-248461132/
+- https://www.linkedin.com/in/gogaaltunashvili/
 
 <!---
 gogaaltu/gogaaltu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
